@@ -18,7 +18,8 @@ public class JigSawAcademy
   }
   public static void main(String args[])
   {
-    int n = 5; 
+    int n = 5;
+    System.out.println("Pyramid pattern");
     PyramidPattern(n); 
   } 
 }
